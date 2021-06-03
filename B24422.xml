@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hue and cry after Father Peters, by the deserted Roman Catholicks.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24422</idno><idno type="EEBO-CITATION">99882819</idno>
+  <idno type="VID">190428</idno>
+  <idno type="EEBO-PROQUEST">2248518454</idno>
+  
+            <idno type="OCLC"> 12206370</idno>
+            <idno type="STC">Wing H3276</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[5]</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.88*.[69]</idno>
+            <idno type="STC">ESTC R14116</idno>
+            <idno type="PROQUEST">ocm99882819</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882819e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190428)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[29] ; C30:1[67])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hue and cry after Father Peters, by the deserted Roman Catholicks.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.R.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>in the year 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Petre, Edward, 1631-1699 --  Early works to 1800.</term>
+               <term type="corporate_name">Jesuits --  England --  Early works to 1800.</term>
+               <term type="corporate_name">Catholics --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190428:1"/>
+            <head>THE HUE and CRY AFTER FATHER PETERS, By the Deserted Roman Catholicks.</head>
+            <p>O Yes! O yes! O yes! Whereas an Ill-natur'd, False-hearted, Self-minded, Insinuating <hi>JESƲIT</hi> has lately withdrawn from the <hi>English</hi>-Court (God knows whither!) These are to give Notice, That if any manner of Person, Man, Woman, or Child, <hi>Christian</hi> or <hi>Pagan, Heretick</hi> or <hi>Recusant,</hi> can give any Tidings of the said Father, (so that he be brought back Alive, to receive the just Rewards of his Covetousness and Pride) shall have a Thousand Pounds Reward. You will think a Thousand Pound a great Summ, and too great for us to perform, being now again Poor, and reduc'd to our former Exigencies: But alas! 'Tis nothing in respect of the purchase. Do but catch Him, you will find his Breeches well Lin'd, beyond what Nature sent him; this being hardly the hundredth part of what he has unjustly Purloyn'd here. If this will not encou<g ref="char:EOLhyphen"/>rage you, but you have more delight in the Pleasures of the Flesh, than in the Mammon of Unrighteousness, you shall have a Brace of his Cast-Misses, who now Starve for want of his Weekly Charity, which he receiv'd for the supply of the Poor, but more devoutly bestow'd it that way. If this will not do, we will give you an Absolution for all the Sins you shall commit; you, and all your Posterity, for a Thousand Years to come.</p>
+            <p>But that you may not mistake, either in the Person or Character, I will de<g ref="char:EOLhyphen"/>scribe him in his proper Colours, which are as changeable as his Allegiance.</p>
+            <p>This Father of Deceit, This greedy Miser, (contrary to the Principles of a good Christian, Lusting more after the Flesh, than after the Spirit; and yet more after the Mammon of Ungodliness, than after the Flesh) chang'd, like the <hi>Camelion,</hi>
+               <pb n="2" facs="tcp:190428:2"/>to the prevailing Colours; and (like a Lobster stew'd in his own Sweat) turn'd, in a Moment, from Black to Red. And now, you will find the Holy Father of the <hi>Word</hi>▪ transform'd to a Bully of the <hi>Sword;</hi> the follower of <hi>Jesus,</hi> to an imi<g ref="char:EOLhyphen"/>tator of <hi>Judas;</hi> who betray'd his Lord and Master from the beginning, in the Dis<g ref="char:EOLhyphen"/>guise of a Saint.</p>
+            <p>This Impostor of his Holy Order, This Shame to his Profession, and Scandal to all <hi>Roman Catholicks,</hi> (a Turn-coat to his Loyalty, as well as his Function) you will find him in the Habit of a Soldier; his black Gown converted into a scarlet Cloak; his Holy Vest into an Embroider'd Coat; and his Canonical Girdle into a glittering Fring'd Scars; his precise Band into a Damme Crevat; his old Corde<g ref="char:EOLhyphen"/>bac into a Beaver and Feather; His beads of Pearl into so many Pistols; and his Golden Crucifix into Guineys.</p>
+            <p>In this Heroick Equipage (they say) he is gone into <hi>France,</hi> which a Young Peer of <hi>England</hi> in his Company; making towards <hi>Paris,</hi> to see if he can make as good an stand of it at the <hi>Gallick</hi> Court as in <hi>England.</hi>
+            </p>
+            <p>Besides this Metamorphosis of Canonical Black, into Military Red▪ the Word unto a Sword, and Sable Hart-band into a Scarlet Feather (which is now become the Helmet and Breast Plate of the Militant Clergy,) there are other many visi<g ref="char:EOLhyphen"/>ble, and particular Marks and Tokens, like <hi>Cain,</hi> put upon him by an Eternal Stamp, to distinguish him from all Mankind.</p>
+            <p>He is long Visag'd, lank black Hair of his own, (but now in a Flaxen Perri<g ref="char:EOLhyphen"/>wigg;) Tall and Slender, Fawning Looks, Flattering Smiles, a False Heart, de<g ref="char:EOLhyphen"/>ceitful Tongue, <hi>Gorgon's</hi> Eyes, who turns all things into senceless Stones, that be<g ref="char:EOLhyphen"/>hold him; and <hi>Harpsy's</hi> Claws, that never yet let go any Prey he could get into his Tallents. Very Loyal, but very Unstable; very Devout, but very Treacher<g ref="char:EOLhyphen"/>ous; and Covetous beyond the Roman <hi>Domitian.</hi> He is about the Age of Sixty; but as Wanton as at Thirty: More subject to Lust than Loyalty; and, like <hi>Tarquin,</hi> more subject to Lucre than either.</p>
+            <p>Would you go in Pursuit of this Prodigy in Nature, this Fomenter of all our Troubles, this Incendiary, who has kindled the Fire, and left us behind to put out the Flame; Expect not him now to find Napping in a Chair, not with any formida<g ref="char:EOLhyphen"/>ble; Equipage of Foot-men; neither as an Embassadour, that Enters a Town, and has for the Grandeur of his State, his Golden Chariots Guarded on every side: But rather search him in some secret Convent, amongst the Zealous <hi>Nuns,</hi> or amongst the Stews in <hi>Paris;</hi> for to his own Cloysters he dare not Return.</p>
+            <p>If such an one you find Booted and Spur'd, pull of his Boots, for fear of a Cloven Foot; for the Devil (they say in <hi>France</hi>) wares <hi>Jacque Boots,</hi> and Red Shashoons; and they are so like in Travelling, that should you mistake one for 'tother, we are in worse Pickle than before; not knowing which of the two has done the most Mischief: But, of the two, bring back the Father, who hath been the Author of all our Impending Troubles; that he may, by his sufferings, Attone for the Mischiefs he has done, by delivering him over a just Sacrifice to the Fury of the People, and the Rearing of the <hi>Belgick Lyon.</hi> Thus deliver him into our Hands, and we will Engage to Pay you the Reward which (by so Meritorious an Act) you have most justly deserv'd.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. R.</hi> in the Year 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
